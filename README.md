@@ -1,2 +1,2 @@
 # tonyking318.github.io
-sample webpage
+[Index](https://tonyking318.github.io/samplepage/index.html)
